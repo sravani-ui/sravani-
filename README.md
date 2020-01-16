@@ -1,2 +1,2 @@
-# sravani-
-Designer
+# sravani moluguri
+Ui/Ux Designer
